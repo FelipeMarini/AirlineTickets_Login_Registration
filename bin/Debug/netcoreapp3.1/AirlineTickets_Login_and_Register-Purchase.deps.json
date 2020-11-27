@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AirlineTickets_Login_and_Register-Purchase/1.0.0": {
+        "runtime": {
+          "AirlineTickets_Login_and_Register-Purchase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AirlineTickets_Login_and_Register-Purchase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

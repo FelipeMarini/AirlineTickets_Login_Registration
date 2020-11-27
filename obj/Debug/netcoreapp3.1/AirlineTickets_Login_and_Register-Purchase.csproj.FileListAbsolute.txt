@@ -1,0 +1,13 @@
+C:\Users\Felipe\Desktop\AirlineTickets_Login_and_Register-Purchase\bin\Debug\netcoreapp3.1\AirlineTickets_Login_and_Register-Purchase.exe
+C:\Users\Felipe\Desktop\AirlineTickets_Login_and_Register-Purchase\bin\Debug\netcoreapp3.1\AirlineTickets_Login_and_Register-Purchase.deps.json
+C:\Users\Felipe\Desktop\AirlineTickets_Login_and_Register-Purchase\bin\Debug\netcoreapp3.1\AirlineTickets_Login_and_Register-Purchase.runtimeconfig.json
+C:\Users\Felipe\Desktop\AirlineTickets_Login_and_Register-Purchase\bin\Debug\netcoreapp3.1\AirlineTickets_Login_and_Register-Purchase.runtimeconfig.dev.json
+C:\Users\Felipe\Desktop\AirlineTickets_Login_and_Register-Purchase\bin\Debug\netcoreapp3.1\AirlineTickets_Login_and_Register-Purchase.dll
+C:\Users\Felipe\Desktop\AirlineTickets_Login_and_Register-Purchase\bin\Debug\netcoreapp3.1\AirlineTickets_Login_and_Register-Purchase.pdb
+C:\Users\Felipe\Desktop\AirlineTickets_Login_and_Register-Purchase\obj\Debug\netcoreapp3.1\AirlineTickets_Login_and_Register-Purchase.csprojAssemblyReference.cache
+C:\Users\Felipe\Desktop\AirlineTickets_Login_and_Register-Purchase\obj\Debug\netcoreapp3.1\AirlineTickets_Login_and_Register-Purchase.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\AirlineTickets_Login_and_Register-Purchase\obj\Debug\netcoreapp3.1\AirlineTickets_Login_and_Register-Purchase.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\AirlineTickets_Login_and_Register-Purchase\obj\Debug\netcoreapp3.1\AirlineTickets_Login_and_Register-Purchase.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\AirlineTickets_Login_and_Register-Purchase\obj\Debug\netcoreapp3.1\AirlineTickets_Login_and_Register-Purchase.dll
+C:\Users\Felipe\Desktop\AirlineTickets_Login_and_Register-Purchase\obj\Debug\netcoreapp3.1\AirlineTickets_Login_and_Register-Purchase.pdb
+C:\Users\Felipe\Desktop\AirlineTickets_Login_and_Register-Purchase\obj\Debug\netcoreapp3.1\AirlineTickets_Login_and_Register-Purchase.genruntimeconfig.cache
